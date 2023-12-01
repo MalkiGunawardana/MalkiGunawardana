@@ -1,11 +1,15 @@
-<h1 align="center">Hi 👋, I'm Malki Gunawardana</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<img src="https://raw.githubusercontent.com/berkeli/berkeli/main/assets/header.jpg" align="center" alt="berkeli header image">
 
+<h1 align="center">Hi 👋, I'm Malki Gunawardana</h1>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;Programmer;"></a>
+</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=malki-gunawaradana&label=Profile%20views&color=0e75b6&style=flat" alt="malki-gunawaradana" /> </p>
 
 
 
-- 🔭 I’m an undergraduate at **Sabaragamuwa University**
+- 🔭 I’m an undergraduate student at **Sabaragamuwa University**
 - 👨‍💻 This repository serves as a portfolio of the projects I've undertaken during my academic journey
 
 - 🌱 I’m currently learning **Angular**
@@ -22,9 +26,31 @@
 
 -----
 
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=MalkiGunawardana&bg_color=0D1117&theme=synthwave&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MalkiGunawardana&bg_color=0D1117&theme=synthwave&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MalkiGunawardana&bg_color=0D1117&theme=synthwave&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
+
+  </td>
+</tr>
+</table>
+
+<!--- stats (end) -->
+
+-----
+
 <h3 align="center">Connect with me</h3>
 <p align="center">
 <a href="https://linkedin.com/in/malki gunawardana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="malki gunawardana" height="30" width="40" /></a>
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=malki-gunawaradana&show_icons=true&locale=en&layout=compact" alt="malki-gunawaradana" /></p>
+
