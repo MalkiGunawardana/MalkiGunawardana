@@ -1,4 +1,4 @@
-<img src=https:https://www.freepik.com/free-photo/html-system-website-concept_41740250.htm#query=it&position=8&from_view=search&track=sph&uuid=f73871e9-bca8-4092-ac88-1cc7f8b83268" align="center" alt="cover image">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmckl.edu.my%2Fprogramme%2Fmicro-credentials-in-information-technology%2F&psig=AOvVaw2yQ-GtvmcEOOhbP3NlYHn0&ust=1703347870504000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOikrMO3o4MDFQAAAAAdAAAAABAE.jpeg" align="center" alt="cover image">
 
 <h1 align="center">Hi 👋, I'm Malki Gunawardana</h1>
 
