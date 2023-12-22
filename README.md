@@ -1,4 +1,4 @@
-<img src="" align="center" alt="cover image">
+
 
 <h1 align="center">Hi 👋, I'm Malki Gunawardana</h1>
 
