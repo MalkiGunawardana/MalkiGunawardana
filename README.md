@@ -1,4 +1,4 @@
-<img src=https://www.freepik.com/free-photo/html-system-website-concept_41740250.htm#query=it&position=6&from_view=search&track=sph&uuid=1af75d84-496b-48c5-924a-de3752afbaad.png" align="center" alt="cover image">
+<img src=https:https://www.freepik.com/free-photo/html-system-website-concept_41740250.htm#query=it&position=8&from_view=search&track=sph&uuid=f73871e9-bca8-4092-ac88-1cc7f8b83268" align="center" alt="cover image">
 
 <h1 align="center">Hi 👋, I'm Malki Gunawardana</h1>
 
