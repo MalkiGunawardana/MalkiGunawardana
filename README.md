@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/berkeli/berkeli/main/assets/header.jpg" align="center" alt="berkeli header image">
+<img src=https://github.com/MalkiGunawardana/MalkiGunawardana/blob/main/Github_pp.png" align="center" alt="cover image">
 
 <h1 align="center">Hi 👋, I'm Malki Gunawardana</h1>
 
