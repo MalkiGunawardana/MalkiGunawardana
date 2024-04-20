@@ -1,0 +1,54 @@
+F:\document\SUSL\.NET\GPA calculator\GPA calculator\bin\Debug\GPA calculator.exe.config
+F:\document\SUSL\.NET\GPA calculator\GPA calculator\bin\Debug\GPA calculator.exe
+F:\document\SUSL\.NET\GPA calculator\GPA calculator\bin\Debug\GPA calculator.pdb
+F:\document\SUSL\.NET\GPA calculator\GPA calculator\bin\Debug\Guna.UI.dll
+F:\document\SUSL\.NET\GPA calculator\GPA calculator\obj\Debug\GPA_calculator.Properties.Resources.resources
+F:\document\SUSL\.NET\GPA calculator\GPA calculator\obj\Debug\GPA calculator.csproj.GenerateResource.Cache
+F:\document\SUSL\.NET\GPA calculator\GPA calculator\obj\Debug\GPA calculator.exe
+F:\document\SUSL\.NET\GPA calculator\GPA calculator\obj\Debug\GPA calculator.pdb
+F:\document\SUSL\.NET\GPA calculator\GPA calculator\obj\Debug\GPA_calculator.Dash.resources
+F:\document\SUSL\.NET\GPA calculator\GPA calculator\obj\Debug\GPA_calculator.splash.resources
+F:\document\SUSL\.NET\GPA calculator\GPA calculator\obj\Debug\GPA_calculator.year1new.resources
+F:\document\SUSL\.NET\GPA calculator\GPA calculator\obj\Debug\GPA_calculator.year2new.resources
+F:\document\SUSL\.NET\GPA calculator\GPA calculator\obj\Debug\GPA_calculator.selectionNew.resources
+F:\document\SUSL\.NET\GPA calculator\GPA calculator\obj\Debug\GPA_calculator.mainform.resources
+F:\document\SUSL\.NET\GPA calculator\GPA calculator\obj\Debug\GPA_calculator.Summary.resources
+F:\document\SUSL\.NET\GPA calculator\GPA calculator\obj\Debug\GPA_calculator.CsYr3.resources
+F:\document\SUSL\.NET\GPA calculator\GPA calculator\obj\Debug\GPA_calculator.CsYr4.resources
+F:\document\SUSL\.NET\GPA calculator\GPA calculator\obj\Debug\GPA_calculator.selectionNewYr4.resources
+F:\document\SUSL\.NET\GPA calculator\GPA calculator\obj\Debug\GPA_calculator.ChemYr3.resources
+F:\document\SUSL\.NET\GPA calculator\GPA calculator\obj\Debug\GPA calculator.csprojResolveAssemblyReference.cache
+F:\document\SUSL\.NET\GPA calculator\GPA calculator\obj\Debug\GPA_calculator.PhyYr3.resources
+F:\document\SUSL\.NET\GPA calculator\GPA calculator\obj\Debug\GPA_calculator.ChemYr4.resources
+F:\document\SUSL\.NET\GPA calculator\GPA calculator\obj\Debug\GPA_calculator.PhyYr4.resources
+F:\document\SUSL\.NET\GPA calculator\GPA calculator\bin\Debug\GPA calculator.exe.manifest
+F:\document\SUSL\.NET\GPA calculator\GPA calculator\bin\Debug\GPA calculator.application
+F:\document\SUSL\.NET\GPA calculator\GPA calculator\obj\Debug\GPA calculator.exe.manifest
+F:\document\SUSL\.NET\GPA calculator\GPA calculator\obj\Debug\GPA calculator.application
+F:\document\SUSL\Projects\GPA calculator\GPA calculator\bin\Debug\GPA calculator.exe.config
+F:\document\SUSL\Projects\GPA calculator\GPA calculator\obj\Debug\GPA calculator.exe
+F:\document\SUSL\Projects\GPA calculator\GPA calculator\obj\Debug\GPA calculator.pdb
+F:\document\SUSL\Projects\GPA calculator\GPA calculator\bin\Debug\GPA calculator.exe.manifest
+F:\document\SUSL\Projects\GPA calculator\GPA calculator\bin\Debug\GPA calculator.application
+F:\document\SUSL\Projects\GPA calculator\GPA calculator\bin\Debug\GPA calculator.exe
+F:\document\SUSL\Projects\GPA calculator\GPA calculator\bin\Debug\GPA calculator.pdb
+F:\document\SUSL\Projects\GPA calculator\GPA calculator\bin\Debug\Guna.UI.dll
+F:\document\SUSL\Projects\GPA calculator\GPA calculator\obj\Debug\GPA calculator.csprojResolveAssemblyReference.cache
+F:\document\SUSL\Projects\GPA calculator\GPA calculator\obj\Debug\GPA_calculator.ChemYr3.resources
+F:\document\SUSL\Projects\GPA calculator\GPA calculator\obj\Debug\GPA_calculator.ChemYr4.resources
+F:\document\SUSL\Projects\GPA calculator\GPA calculator\obj\Debug\GPA_calculator.CsYr3.resources
+F:\document\SUSL\Projects\GPA calculator\GPA calculator\obj\Debug\GPA_calculator.CsYr4.resources
+F:\document\SUSL\Projects\GPA calculator\GPA calculator\obj\Debug\GPA_calculator.Dash.resources
+F:\document\SUSL\Projects\GPA calculator\GPA calculator\obj\Debug\GPA_calculator.mainform.resources
+F:\document\SUSL\Projects\GPA calculator\GPA calculator\obj\Debug\GPA_calculator.PhyYr3.resources
+F:\document\SUSL\Projects\GPA calculator\GPA calculator\obj\Debug\GPA_calculator.PhyYr4.resources
+F:\document\SUSL\Projects\GPA calculator\GPA calculator\obj\Debug\GPA_calculator.Properties.Resources.resources
+F:\document\SUSL\Projects\GPA calculator\GPA calculator\obj\Debug\GPA_calculator.selectionNewYr4.resources
+F:\document\SUSL\Projects\GPA calculator\GPA calculator\obj\Debug\GPA_calculator.selectionNew.resources
+F:\document\SUSL\Projects\GPA calculator\GPA calculator\obj\Debug\GPA_calculator.splash.resources
+F:\document\SUSL\Projects\GPA calculator\GPA calculator\obj\Debug\GPA_calculator.Summary.resources
+F:\document\SUSL\Projects\GPA calculator\GPA calculator\obj\Debug\GPA_calculator.year1new.resources
+F:\document\SUSL\Projects\GPA calculator\GPA calculator\obj\Debug\GPA_calculator.year2new.resources
+F:\document\SUSL\Projects\GPA calculator\GPA calculator\obj\Debug\GPA calculator.csproj.GenerateResource.Cache
+F:\document\SUSL\Projects\GPA calculator\GPA calculator\obj\Debug\GPA calculator.exe.manifest
+F:\document\SUSL\Projects\GPA calculator\GPA calculator\obj\Debug\GPA calculator.application

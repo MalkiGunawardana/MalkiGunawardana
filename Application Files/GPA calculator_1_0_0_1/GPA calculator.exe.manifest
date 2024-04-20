@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="GPA calculator.exe" version="1.0.0.1" publicKeyToken="d78d0bfc8001d764" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="GPA calculator" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="GPA calculator.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="GPA calculator.exe" size="1704360">
+      <assemblyIdentity name="GPA calculator" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>etDKhcU7XtcZ6P/vG9zstqb57Q6gS9eaHX6LQ6hjDDI=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Guna.UI.dll" size="1136808">
+      <assemblyIdentity name="Guna.UI" version="1.9.0.1" publicKeyToken="AD275B4BE6718D4B" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>V20t4snvW8Hqm91zro9AgAQmADfDtyIn7tJ+mVFmJ20=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="GPA calculator.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>6N7MliNbVJSIAIPrecIshMbZ7zEoKLr5SQvud4LDUOw=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=MALKI\dmrwg" issuerKeyHash="84714f5ec1c8a0f388d8df832fd11f8d0112faa6" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>/zl3+TswlH5a0SY0NvveivV/tmu0g8mfnwxt3GKzlDM=</DigestValue></Reference></SignedInfo><SignatureValue>KYtL7LNIQzOPX1a80rk/T7ugoM9ihW3tzPeadK+DaSj2KfG9RxVMAmTmS6uqqTKbL/041NaPXh86jbM3za9hWEs2zqa1sT+SOLRSRiBlTIl0mydo60Yvz/feInm/DJlcJ7JPIQxOX0czVd4A/Mxc2wITpeFdeORQxPwPLFrcfGI=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>zWyjs+rxABDwVUH6mei5f2moz653r8cEF81RsC8/d7TSFmI74Bjnz0nkvupi2iUATMY8kdJv7bPkCKdotxzFMEaG9jn85/4NeS7K1KoYp23c4ERsU1sVG/Oslb0TeTqfLHeQMafBy15yZXmDQl+xg0vlpkms8/nsPFOSwKy5CUk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="3394b362dc6d0c9f9fc983b46bb67ff58adefb363426d15a7e94303bf97739ff" Description="" Url=""><as:assemblyIdentity name="GPA calculator.exe" version="1.0.0.1" publicKeyToken="d78d0bfc8001d764" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=MALKI\dmrwg</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>0yR43th87OwYRKPwjc4Eq3bcda+kg3nPh+R3PEJJcA8=</DigestValue></Reference></SignedInfo><SignatureValue>mrD+X18ou8ftmMu5qaxBR358WGdnPmnMCFqv2f6MIBnCT/fhkXAXbqaadxnpMQ9kBcZCwBTkKLHbM90hH4YuLXs9asbqDIps3No4O34xM9AAomeMWXBeVhjsJk8EY3K8NVfWFHXNw4WEMBrqD3pMafrcGzArrUb4UG6T6RQuM04=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>zWyjs+rxABDwVUH6mei5f2moz653r8cEF81RsC8/d7TSFmI74Bjnz0nkvupi2iUATMY8kdJv7bPkCKdotxzFMEaG9jn85/4NeS7K1KoYp23c4ERsU1sVG/Oslb0TeTqfLHeQMafBy15yZXmDQl+xg0vlpkms8/nsPFOSwKy5CUk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBxTCCAS6gAwIBAgIQU7eC42q3x5pMipNaeFA4XTANBgkqhkiG9w0BAQsFADAhMR8wHQYDVQQDHhYATQBBAEwASwBJAFwAZABtAHIAdwBnMB4XDTIzMTIwMTEzMDIzNFoXDTI0MTEzMDE5MDIzNFowITEfMB0GA1UEAx4WAE0AQQBMAEsASQBcAGQAbQByAHcAZzCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAzWyjs+rxABDwVUH6mei5f2moz653r8cEF81RsC8/d7TSFmI74Bjnz0nkvupi2iUATMY8kdJv7bPkCKdotxzFMEaG9jn85/4NeS7K1KoYp23c4ERsU1sVG/Oslb0TeTqfLHeQMafBy15yZXmDQl+xg0vlpkms8/nsPFOSwKy5CUkCAwEAATANBgkqhkiG9w0BAQsFAAOBgQCkQfwf3iwvTtrW7evIh0tGXHkAoGBJgN+lhvu+cmJLoIyGGydjZ1Xt83NSZCRDUwKbHjwzLsxHHXv2jClT5bgcCrSqSla0yRGqz/cpNrtzOF79uBE9S2H+TPM8o+e2KXYLV9X5BqtpyM6mQ41fAar+cgWhzZdy21U0byvf+RBL4A==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
